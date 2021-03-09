@@ -39,6 +39,13 @@ usethis::use_github()
 
 ```
 
+About .gitignore
+----------------
+- [GitIgnore topic of GitHub manual](https://githubtraining.github.io/training-manual/#/23_gitignore)
+- [Collection of .gitignore templates based on popular programming languages](https://github.com/github/gitignore)
+- [R Template](https://github.com/github/gitignore/blob/master/R.gitignore)
+
+
 Others
 ------
 - [usethis package documentation](https://usethis.r-lib.org/reference/create_package.html)
