@@ -30,6 +30,15 @@ I suggest that you change the name of the token, to know which computer you are 
       ```
   - Restart R Studio (CTRL + SHIFT + F10)
 
+Create Repository from R Studio
+-------------------------------
+```
+usethis::create_project("Folder/ProjectPath")
+usethis::use_git()
+usethis::use_github()
+
+```
+
 Others
 ------
 - [usethis package documentation](https://usethis.r-lib.org/reference/create_package.html)
