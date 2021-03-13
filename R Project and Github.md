@@ -12,7 +12,7 @@ Setup Git on RStudio (is necessary only once)
                           user.email = "gcx@academico.ufpb.br") # Your e-mail
       ```
    - or on Git:
-      ```gitconfig
+      ```sh
       $ git config --global user.name "Gustavo Xavier"
 
       $ git config --global user.email gcx@academico.ufpb.br
